@@ -23,6 +23,6 @@ A single Jupyter notebook contains all the scripts from downloading dataset to b
 * numba v0.52
 
 ## Additional resources
-1. [Full-paper](https://drive.google.com/file/d/1vX8XD287tBKwLgkcCn0zyrv7pLX4lqhA/view?usp=sharing).
-2. [Poster](https://iscb.junolive.co/ismb2022/library/search/ismb2022_poster_751).
+1. [Full-paper](https://drive.google.com/file/d/1vX8XD287tBKwLgkcCn0zyrv7pLX4lqhA/view?usp=sharing)
+2. [Poster](https://iscb.junolive.co/ismb2022/library/search/ismb2022_poster_751)
 
