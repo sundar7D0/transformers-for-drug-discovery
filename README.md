@@ -1,4 +1,4 @@
-# transformers-for-drug-discovery
+# Generating Drug-like Molecules from Gene Expression Signatures using Transformers
 
 The chemical space of drug-discovery is very large and discrete. Screening through this space for molecules that satisfy biological and pharmacokinetic properties such as stability, solubility, efficacy, affinity and permeability poses a highly complex multiobjective optimization problem. Precisely, our Transformer model with modified encoder architecture is well suited for translating the information contained in high-throughput biological data into instances in the chemical space. 
 
