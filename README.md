@@ -9,7 +9,7 @@ The chemical space of drug-discovery is very large and discrete. Screening throu
 * Moreover, the model automatically learns the structural and chemical characteristics while being trained, which is evident by visually inspecting the common scaffolds in the generated and the actual compounds.
 * By incorporating biological information in the form of altered gene expression, we have outperformed other deep learning based molecular generators in terms of validity, uniqueness and metrics like Synthetic Accessibility score and Tanimoto similarity with the known compound
 
-Altogether, our method can not only help in accelerating the early stage of drug discovery but can also aid in drug repurposing. This work is accepeted as a poster at ML for Computation Biology track at [ISMB22](https://www.iscb.org/ismb2022).
+Altogether, our method can not only help in accelerating the early stage of drug discovery but can also aid in drug repurposing. This work done under the guidance of [Prof. Manikandan Narayanan](http://maninarayanan.com/index.html), is accepeted as a poster at ML for Computation Biology track at [ISMB22](https://www.iscb.org/ismb2022).
 
 
 ## Using the code
