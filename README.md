@@ -2,6 +2,7 @@
 
 The chemical space of drug-discovery is very large and discrete. Screening through this space for molecules that satisfy biological and pharmacokinetic properties such as stability, solubility, efficacy, affinity and permeability poses a highly complex multiobjective optimization problem. Precisely, our Transformer model with modified encoder architecture is well suited for translating the information contained in high-throughput biological data into instances in the chemical space. 
 
+<img src='/images/Transformer_Architecture.PNG' align="center" width="500" height="300" style="vertical-align:left;margin:0px 30px">
 
 ## Key Contributions:
 * We show that attention-based sequential prediction performs better and converges faster than by well attending to previously predicted outputs and encoded gene expression signature.
@@ -11,3 +12,4 @@ The chemical space of drug-discovery is very large and discrete. Screening throu
 Altogether, our method can not only help in accelerating the early stage of drug discovery but can also aid in drug repurposing.
 
 Find [full-paper](https://drive.google.com/file/d/1vX8XD287tBKwLgkcCn0zyrv7pLX4lqhA/view?usp=sharing), [poster](https://iscb.junolive.co/ismb2022/library/search/ismb2022_poster_751).
+
