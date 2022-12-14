@@ -18,7 +18,7 @@ Altogether, our method can not only help in accelerating the early stage of drug
 4. numba v0.52
 
 ## Using the code
-A single Jupyter notebook `Modified_Transformer.ipynb`, downloads the dataset, evaluation toolkit (`RDKit`), builds, trains and evaluates the transformer model. It can be easily ported to run with public-cloud like GCP, AWS, etc. or `google-colab`.
+A single Jupyter notebook `Modified_Transformer.ipynb`, downloads the dataset, evaluation toolkit (`RDKit`), builds, trains and evaluates the transformer model. It's parameters can be easily modified and the whole setup can be easily ported to run with public-cloud like GCP, AWS, etc. or `google-colab`.
 
 ## Additional resources
 1. [Full-paper](https://drive.google.com/file/d/1vX8XD287tBKwLgkcCn0zyrv7pLX4lqhA/view?usp=sharing)
