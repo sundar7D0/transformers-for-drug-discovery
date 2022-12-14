@@ -5,7 +5,7 @@ The chemical space of drug-discovery is very large and discrete. Screening throu
 <img src='/images/Transformer_Architecture.PNG' align="center" width="800" height="450" style="vertical-align:left;margin:0px 30px">
 
 ## Key Contributions:
-* We show that attention-based sequential prediction performs better and converges faster than by well attending to previously predicted outputs and encoded gene expression signature.
+* We show that attention-based sequential prediction performs better and converges faster by well attending to previously predicted outputs and encoded gene expression signature.
 * Moreover, the model automatically learns the structural and chemical characteristics while being trained, which is evident by visually inspecting the common scaffolds in the generated and the actual compounds.
 * By incorporating biological information in the form of altered gene expression, we have outperformed other deep learning based molecular generators in terms of validity, uniqueness and metrics like Synthetic Accessibility score and Tanimoto similarity with the known compound
 
